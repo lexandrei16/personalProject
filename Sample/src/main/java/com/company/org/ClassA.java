@@ -7,5 +7,9 @@ public class ClassA {
 		System.out.println("Hello World!");
 
 	}
+	
+	public void test() {
+		//nothing to do
+	}
 
 }
