@@ -1,3 +1,4 @@
+package com.company.org;
 
 public class ClassA {
 
